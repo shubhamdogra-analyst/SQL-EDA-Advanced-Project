@@ -70,5 +70,3 @@ The SQL script covers multiple analytical perspectives, including:
 ## 👤 Author
 **Shubham Dogra**  
 Aspiring Data Analyst | SQL | Excel | Power BI
-**Shubham Dogra**  
-Aspiring Data Analyst | SQL | Excel | Power BI
