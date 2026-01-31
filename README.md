@@ -3,12 +3,12 @@
 ### Customer Performance Report
 This report analyzes customer-level performance, including total sales, order contribution, and customer segmentation to support revenue-focused decision-making.
 
-![Customer Report](screenshots/2. sql_customer_report_screenshots.png)
+![Customer Report](screenshots/sql_customer_report.png)
 
 ### Product Performance Report
 This report evaluates product-level performance by revenue, quantity sold, and ranking to identify top and underperforming products.
 
-![Product Report](screenshots/1. sql_product_report_screenshots.png)
+![Product Report](screenshots/sql_product_report.png)
 
 
 # SQL EDA & Advanced Business Insights Project
