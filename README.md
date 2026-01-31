@@ -1,3 +1,16 @@
+## 📸 Sample Outputs
+
+### Customer Performance Report
+This report analyzes customer-level performance, including total sales, order contribution, and customer segmentation to support revenue-focused decision-making.
+
+![Customer Report]()
+
+### Product Performance Report
+This report evaluates product-level performance by revenue, quantity sold, and ranking to identify top and underperforming products.
+
+![Product Report]()
+
+
 # SQL EDA & Advanced Business Insights Project
 
 ## 📌 Project Overview
